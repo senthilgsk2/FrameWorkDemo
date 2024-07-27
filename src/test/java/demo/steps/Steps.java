@@ -64,5 +64,6 @@ public class Steps extends BaseClass{
 	@Then("test outline then")
 	public void test_outline_then() {
 	    System.out.println("test git pull");
+	    System.out.println("hey iam pushing this please wait");
 	}
 }
